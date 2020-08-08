@@ -1,0 +1,10 @@
+#France
+- name: Ouagadougou
+  country_id: '31'
+  id: '101'
+  abbr: 01
+
+- name: Bobo-Dioulasso
+  country_id: '31'
+  id: '102'
+  abbr: 02
